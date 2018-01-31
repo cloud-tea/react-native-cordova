@@ -1,10 +1,10 @@
 {
-    "name": "@remobile/react-native-cordova",
-        "version": "1.1.1",
+    "name": "@cloutea/react-native-cordova",
+        "version": "1.0.0",
         "description": "A cordova plugin defines for react native on ios and android",
         "author": {
-            "name": "YunJiang.Fang",
-            "email": "42550564@qq.com"
+            "name": "zjhiphop",
+            "email": "zjhihop@gmail.com"
         },
         "license": "MIT",
         "keywords": [
@@ -14,15 +14,15 @@
             "android",
             "cordova",
             "plugin",
-            "remobile",
+            "cloutea",
             "mobile"
         ],
-        "homepage": "https://github.com/remobile/react-native-cordova",
+        "homepage": "https://github.com/cloud-tea/react-native-cordova",
         "bugs": {
-            "url": "https://github.com/remobile/react-native-cordova/issues"
+            "url": "https://github.com/cloud-tea/react-native-cordova/issues"
         },
         "repository": {
             "type": "git",
-            "url": "git://github.com/remobile/react-native-cordova.git"
+            "url": "git://github.com/cloud-tea/react-native-cordova.git"
         }
 }
