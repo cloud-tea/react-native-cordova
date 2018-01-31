@@ -1,28 +1,30 @@
 {
-    "name": "@cloutea/react-native-cordova",
-        "version": "1.0.0",
-        "description": "A cordova plugin defines for react native on ios and android",
-        "author": {
-            "name": "zjhiphop",
-            "email": "zjhihop@gmail.com"
-        },
-        "license": "MIT",
-        "keywords": [
-            "react-native",
-            "react-component",
-            "ios",
-            "android",
-            "cordova",
-            "plugin",
-            "cloutea",
-            "mobile"
-        ],
-        "homepage": "https://github.com/cloud-tea/react-native-cordova",
-        "bugs": {
-            "url": "https://github.com/cloud-tea/react-native-cordova/issues"
-        },
-        "repository": {
-            "type": "git",
-            "url": "git://github.com/cloud-tea/react-native-cordova.git"
-        }
+  "name": "@cloudtea/react-native-cordova",
+  "version": "1.0.0",
+  "description": "A cordova plugin defines for react native on ios and android",
+  "author": "zjhiphop <zjhihop@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "cordova",
+    "plugin",
+    "cloutea",
+    "mobile"
+  ],
+  "homepage": "https://github.com/cloud-tea/react-native-cordova",
+  "bugs": {
+    "url": "https://github.com/cloud-tea/react-native-cordova/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cloud-tea/react-native-cordova.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
+
